@@ -2,3 +2,7 @@
 
 ## Hi there 👋
 I'm a very lazy person that loves to design/code things. I also love Apple products and [letter H](https://reddit.com/r/TheLetterH).
+
+Soon™ I plan to learn Swift.
+
+I created [Indexed](https://github.com/team-indexed).
