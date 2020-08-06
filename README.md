@@ -11,6 +11,6 @@
 
 <p align="center">
   <a href="https://github.com/Indexerrowaty" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Indexerrowaty" alt="Indexerrowaty's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Indexerrowaty&count_private=true" alt="Indexerrowaty's Stats" >
   </a>
 </p>
