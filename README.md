@@ -7,7 +7,7 @@ Soon™ I plan to learn Swift.
 
 I created [Indexed](https://github.com/team-indexed).
 
-## My stats
+<h2 align="center">My stats</h2>
 
 <p align="center">
   <a href="https://github.com/Indexerrowaty" class="rich-diff-level-one">
