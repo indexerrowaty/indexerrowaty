@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/badge/Discord-Index%238155-%237289DA?style=for-the-badge&logo=discord&logoColor=White)
+![Discord](https://img.shields.io/badge/Discord-Index%232137-%237289DA?style=for-the-badge&logo=discord&logoColor=White)
 <h2 align="left">Hi there 👋</h2>
 <p align="left">
   I'm a very lazy person that loves to design, code and break things. I also love Apple products and <a href="https://reddit.com/r/TheLetterH">the letter H</a>. Not a joke.<br>
