@@ -1,13 +1,13 @@
 ![Discord](https://img.shields.io/badge/Discord-Index%231337-%237289DA?style=for-the-badge&logo=discord&logoColor=White)
 <h2 align="left">Hi there 👋</h2>
 <p align="left">
-  I'm a very lazy person that loves to design, code and break things. I also love Apple products and <a href="https://reddit.com/r/TheLetterH">the letter H</a>. Not a joke.<br>
+  I'm a very lazy person that loves to design, code and break things. I used to be a huge Apple fanboy.<br>
   Soon™ I plan to learn Swift.<br>
   I created <a href="https://github.com/team-indexed">Indexed</a>.
 </p>
 
 <h2 align="left">What tools I use?</h2>
-<p><a href="https://vscodium.com/">VScodium</a>, <a href="https://coteditor.com/">CotEditor</a>, <a href="https://apps.apple.com/us/app/paint-s/id736473980">Paint S</a>, <a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a>, <a href="https://unity.com">Unity</a></p>
+<p><a href="https://vscodium.com/">VScodium</a>, <a href="https://coteditor.com/">CotEditor</a>, <a href="https://apps.apple.com/us/app/paint-s/id736473980">Paint S</a>, <a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a>, <a href="https://unity.com">Unity</a>, <a href="https://www.docker.com/">Docker</a></p>
 
 <h2>Questions time!</h2>
 
@@ -19,9 +19,6 @@
 
 <h3>What goes first? Milk or Flakes?</h3>
 <p>First milk then flakes.</p>
-
-<h3>H.</h3>
-<p>HHHhhhhH. HHhhHHhHHHh. HHHHh h hhHhh hHHHhhh HHHHh hHhHhh.</p>
 
 <h2 align="left">My stats</h2>
   <a href="https://github.com/Indexerrowaty" class="rich-diff-level-one">
