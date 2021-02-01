@@ -1,30 +1,14 @@
-![Discord](https://img.shields.io/badge/Discord-Index%231337-%237289DA?style=for-the-badge&logo=discord&logoColor=White)
+![Discord](https://img.shields.io/badge/Discord-Index%232141-%237289DA?style=for-the-badge&logo=discord&logoColor=White)
 <h2 align="left">Hi there 👋</h2>
 <p align="left">
-  I'm a very lazy person that loves to design, code and break things. I used to be a huge Apple fanboy.<br>
-  Soon™ I plan to learn Swift.<br>
-  I created <a href="https://github.com/team-indexed">Indexed</a>.
+  I'm a web designer and JS/TS developer. I plan to learn Swift soon. I'm also concerned about my privacy so don't bother searching for me on Facebook since I don't have account there.
 </p>
 
-<h2 align="left">What tools I use?</h2>
-<p><a href="https://vscodium.com/">VScodium</a>, <a href="https://coteditor.com/">CotEditor</a>, <a href="https://apps.apple.com/us/app/paint-s/id736473980">Paint S</a>, <a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a>, <a href="https://unity.com">Unity</a>, <a href="https://www.docker.com/">Docker</a></p>
+<h2 align="left">What programs I use?</h2>
+<p><a href="https://vscodium.com/">VScodium</a>, <a href="https://coteditor.com/">CotEditor</a>, <a href="https://apps.apple.com/us/app/paint-s/id736473980">Paint S</a>, <a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a>, <a href="https://www.adobe.com/products/illustrator.html">Adobe Illustrator</a>, <a href="https://unity.com">Unity</a>, <a href="https://www.docker.com/">Docker</a></p>
 
-<h2>Questions time!</h2>
-
-<h3>Which browser do I use?</h3>
+<h3>What browser is my favorite?</h3>
 <p><a href="https://www.mozilla.org/pl/firefox/new/">Firefox</a></p>
 
 <h3>iOS or Android</h3>
-<p>I prefer iOS but Android isn't bad at all. In fact I even have Android phone for some time now.</p>
-
-<h3>What goes first? Milk or Flakes?</h3>
-<p>First milk then flakes.</p>
-
-<h2 align="left">My stats</h2>
-  <a href="https://github.com/Indexerrowaty" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Indexerrowaty&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" alt="Indexerrowaty's Stats" >
-    <br>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indexerrowaty" />
-</a>
+<p>Well it's hard to tell for me. iOS and Android are equally good mobile operating systems.</p>
