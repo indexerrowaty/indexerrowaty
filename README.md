@@ -1,6 +1,6 @@
 # Hi!
 [![Discord: @indexerrowaty](https://img.shields.io/badge/-indexerrowaty-586aea?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/r9xjk8JAww)
-[![Twitter: @indexerrowaty](https://img.shields.io/badge/-@indexerrowaty-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/indexerrowaty)
+[![Twitter: @indexerrowaty](https://img.shields.io/badge/-@indexerrowaty-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/indexerrowaty)
 [![Telegram: @indexerrowaty](https://img.shields.io/badge/-@indexerrowaty-white?style=flat-square&logo=Telegram&logoColor=0088cc)](https://t.me/indexerrowaty)
 [![YouTube: @indexerrowaty](https://img.shields.io/badge/-@indexerrowaty-white?style=flat-square&logo=YouTube&logoColor=fe0002)](https://youtube.com/@indexerrowaty)
 
