@@ -6,4 +6,4 @@
 
 I'm indexerrowaty (or Index for short).
 
-According to some people I'm good at web design. See for yourself by <a href="https://sexiarz.pages.dev">visiting my meme project Sexiarz</a>.
+According to some people I'm good at web design. See for yourself by <a href="https://indexerrowaty.com">checking out my personal website</a>.
